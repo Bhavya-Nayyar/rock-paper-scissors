@@ -1,0 +1,1 @@
+This is the third project in The Odin Project's curriculum. A simple game of Rock-Paper-Scissors has to be made and played via the console.
